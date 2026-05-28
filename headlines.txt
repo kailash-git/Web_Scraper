@@ -1,0 +1,93 @@
+Web scraping report
+Generated: 2026-05-29 01:44:20.550334
+
+Hacker NewsClaude Opus 4.8 (anthropic.com)
+https://www.anthropic.com/news/claude-opus-4-8
+
+Just Use Postgres for Durable Workflows (dbos.dev)
+https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution
+
+Bricks and Minifigs Stole a Man's $200k Lego Collection (mybricklog.com)
+https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection
+
+Bitburner, programming-based incremental game (bitburner-official.github.io)
+https://bitburner-official.github.io/
+
+The Permanent Upper Crow (jasonwu.ink)
+https://permanent-upper-crow.jasonwu.ink/
+
+Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue (scalex.dev)
+https://llmgame.scalex.dev
+
+I hated writing–until I learned there's a science to it(2024) (science.org)
+https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it
+
+News about Raspberry Pi 6 and Microcontroller Development (jeffgeerling.com)
+https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/
+
+Nitpicking the shell history scene in 'Tron: Legacy' (greenend.org.uk)
+https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/
+
+Indoor Wi-Fi Roaming with OpenWRT (taoofmac.com)
+https://taoofmac.com/space/blog/2026/05/26/1730
+
+CTFTimeHackअस्त्र
+https://ctftime.org/event/3270
+
+Hardwear.io USA 2026 Hardware CTF
+https://ctftime.org/event/3174
+
+THEM?!CTF 2026
+https://ctftime.org/event/3209
+
+BYUCTF 2026
+https://ctftime.org/event/3247
+
+Grey Cat The Flag 2026 Qualifiers
+https://ctftime.org/event/3178
+
+Pwn2Play Open CTF
+https://ctftime.org/event/3220
+
+WhiteHats TrojanCTF 2026
+https://ctftime.org/event/3243
+
+GPN CTF 2026
+https://ctftime.org/event/3041
+
+RPCA CTF 2026
+https://ctftime.org/event/3278
+
+SAS CTF 2026 Quals
+https://ctftime.org/event/3109
+
+The Hacker NewsCritical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code
+https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html
+
+Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer
+https://thehackernews.com/2026/05/threat-actors-exploit-critical.html
+
+Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal
+https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html
+
+Securing AI Use Within Your Organization Starts Here
+https://thehackernews.uk/sans-maturity-ebook
+
+ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More
+https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html
+
+New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI "Power users"
+https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html
+
+Surviving the Mythos Era: Transitioning to Continuous Exposure Management
+https://thehackernews.uk/mythos-exposure-talk
+
+JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware
+https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html
+
+Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users
+https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html
+
+Malicious npm Package Stole Files From Claude AI User Directory via GitHub
+https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html
+
