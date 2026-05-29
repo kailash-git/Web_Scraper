@@ -143,7 +143,7 @@ def the_hacker_news():
     return data
 
 
-# Save results to file
+# Save all the results to a file
 
 def save_results(data):
 
@@ -161,7 +161,7 @@ def save_results(data):
                 file.write(article["title"] + "\n")
                 file.write(article["link"] + "\n\n")
 
-# Main logic
+# This is the Main logic
 
 def main():
 
@@ -180,6 +180,8 @@ def main():
     save_results(all_data)
 
     print("\nResults saved to headlines.txt")
+
+# To run from terminal
 
 if __name__ == "__main__":
 
